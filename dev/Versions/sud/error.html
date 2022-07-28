@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Error
+        </title>
+        <script>
+            /* To Disable Inspect Element */
+            $(document).bind("contextmenu",function(e) {
+             e.preventDefault();
+            });
+            
+            $(document).keydown(function(e){
+                if(e.which === 123){
+                   return false;
+                }
+            });
+            </script>
+            <script>
+                document.onkeydown = function(e) {
+                if(event.keyCode == 123) {
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'E'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'S'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'H'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'A'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'F'.charCodeAt(0)){
+                return false;
+                }
+                if(e.ctrlKey && e.keyCode == 'E'.charCodeAt(0)){
+                return false;
+                }
+                }
+                </script>
+                <script type="text/javascript">
+                    //Script for disabling right click on mouse
+                    var message="I know what your doing >:";
+                    function clickdsb(){
+                    if (event.button==2){
+                    alert(message);
+                    return false;
+                    }
+                    }
+                    function clickbsb(e){
+                    if (document.layers||document.getElementById&&!document.all){
+                    if (e.which==2||e.which==3){
+                    alert(message);
+                    return false;
+                    }
+                    }
+                    }
+                    if (document.layers){
+                    document.captureEvents(Event.MOUSEDOWN);
+                    document.onmousedown=clickbsb;
+                    }
+                    else if (document.all&&!document.getElementById){
+                    document.onmousedown=clickdsb;
+                    }
+                    
+                    document.oncontextmenu=new Function("alert(message);return false")
+                    
+                    </script>
+        <meta charset="UTF-8">
+    </head>
+    <body style="background-color: black; color: white;" oncontextmenu="return false;">
+        <center>
+            <h1 style="font-family:  -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 50px; font-weight: 10;">
+                Sorry. We are currently being worked on.
+            </h1>
+            <p style="font-size: 379px; position: relative; top: -373px; font-weight: 30;">):</p>
+        </center>
+        <script>
+            document.onkeydown = function(e) {
+      if(event.keyCode == 123) {
+         return false;
+      }
+      if(e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+         return false;
+      }
+      if(e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+         return false;
+      }
+      if(e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+         return false;
+      }
+      if(e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+         return false;
+      }
+    }
+        </script>
+                <script type="text/javascript">
+                    //Script for disabling right click on mouse
+                    var message="I know what your doing >:";
+                    function clickdsb(){
+                    if (event.button==2){
+                    alert(message);
+                    return false;
+                    }
+                    }
+                    function clickbsb(e){
+                    if (document.layers||document.getElementById&&!document.all){
+                    if (e.which==2||e.which==3){
+                    alert(message);
+                    return false;
+                    }
+                    }
+                    }
+                    if (document.layers){
+                    document.captureEvents(Event.MOUSEDOWN);
+                    document.onmousedown=clickbsb;
+                    }
+                    else if (document.all&&!document.getElementById){
+                    document.onmousedown=clickdsb;
+                    }
+                    
+                    document.oncontextmenu=new Function("alert(message);return false")
+                    
+                    </script>
+    </body>
+</html>

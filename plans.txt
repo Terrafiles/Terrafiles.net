@@ -1,0 +1,8 @@
+s1. Move up text on landing page below and change its font.
+2. Work on responsiveness on the chat. POSPONED
+3. try to make the refreshlog on the chat stop for 200 ms every message sent.
+4. add some secrets to terrafiles.net.
+5. probaly add some more games to play on terrafiles
+6. fix the post.php thing.
+7. try to find a new style for the landing.
+8. create a getaway shootout event.

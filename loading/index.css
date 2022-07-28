@@ -1,0 +1,12 @@
+@font-face {
+    font-family: coolfont;
+    src: url("Segoe UI Light.ttf");
+}
+.top {
+    color: white;
+    font-family: coolfont;
+    font-size: 40px;
+}
+body {
+    background-color: black;
+}

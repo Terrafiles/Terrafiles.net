@@ -1,0 +1,185 @@
+[26-Jan-2022 06:22:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "America" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[26-Jan-2022 06:22:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "America" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[25-Jan-2022 22:36:16 America/Los_Angeles] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 7
+[25-Jan-2022 22:36:23 America/Los_Angeles] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 7
+[25-Jan-2022 22:39:02 America/Los_Angeles] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 7
+[25-Jan-2022 22:39:09 America/Los_Angeles] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + string in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 7
+[26-Jan-2022 18:37:18 America/Los_Angeles] PHP Warning:  Undefined array key "text" in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 4
+[26-Jan-2022 18:37:18 America/Los_Angeles] PHP Stack trace:
+[26-Jan-2022 18:37:18 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[26-Jan-2022 18:37:27 America/Los_Angeles] PHP Warning:  Undefined array key "text" in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 4
+[26-Jan-2022 18:37:27 America/Los_Angeles] PHP Stack trace:
+[26-Jan-2022 18:37:27 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[26-Jan-2022 18:38:12 America/Los_Angeles] PHP Warning:  Undefined array key "text" in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 4
+[26-Jan-2022 18:38:12 America/Los_Angeles] PHP Stack trace:
+[26-Jan-2022 18:38:12 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[26-Jan-2022 20:26:30 America/Los_Angeles] PHP Warning:  Undefined array key "name" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 9
+[26-Jan-2022 20:26:30 America/Los_Angeles] PHP Stack trace:
+[26-Jan-2022 20:26:30 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Stack trace:
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Stack trace:
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Stack trace:
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Stack trace:
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Stack trace:
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP Stack trace:
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[29-Jan-2022 20:58:13 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:27:28 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Warning:  shell_exec(): Unable to execute 'php bot.php' in /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php on line 10
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP Stack trace:
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:0
+[30-Jan-2022 09:29:31 America/Los_Angeles] PHP   2. shell_exec($command = 'php bot.php') /home/u372972462/domains/terrafiles.net/public_html/Chat/post.php:10
+[08-Feb-2022 14:05:08 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:05:08 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:25:50 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:25:55 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:25:58 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:27:16 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:27:17 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:27:19 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:27:56 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:35:25 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:35:43 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:36:05 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:36:16 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 14:56:49 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 18:54:31 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 18:54:36 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[08-Feb-2022 18:54:49 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 2
+[09-Mar-2022 13:56:04 America/Los_Angeles] PHP Warning:  Undefined array key "name" in /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php on line 9
+[09-Mar-2022 13:56:04 America/Los_Angeles] PHP Stack trace:
+[09-Mar-2022 13:56:04 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/Chat/index.php:0
+[15-Mar-2022 16:00:24 America/Los_Angeles] PHP Warning:  Undefined array key "text" in /home/u372972462/domains/terrafiles.net/public_html/mainchat/post.php on line 4
+[15-Mar-2022 16:00:24 America/Los_Angeles] PHP Stack trace:
+[15-Mar-2022 16:00:24 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/mainchat/post.php:0
+[15-Mar-2022 16:00:52 America/Los_Angeles] PHP Warning:  Undefined array key "text" in /home/u372972462/domains/terrafiles.net/public_html/mainchat/post.php on line 4
+[15-Mar-2022 16:00:52 America/Los_Angeles] PHP Stack trace:
+[15-Mar-2022 16:00:52 America/Los_Angeles] PHP   1. {main}() /home/u372972462/domains/terrafiles.net/public_html/mainchat/post.php:0
